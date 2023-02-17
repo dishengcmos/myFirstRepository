@@ -6,3 +6,11 @@ void main()
 	printf("hello");
 	return 0;
 }
+
+fuck
+
+fuck
+
+fuck
+
+fuck
